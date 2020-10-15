@@ -1,0 +1,3 @@
+C:\Users\Łukasz\Desktop\Rational\RationalConsoleAppDemo\obj\Debug\netcoreapp3.0\RationalConsoleAppDemo.csprojAssemblyReference.cache
+C:\Users\Łukasz\Desktop\Rational\RationalConsoleAppDemo\obj\Debug\netcoreapp3.0\RationalConsoleAppDemo.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\Rational\RationalConsoleAppDemo\obj\Debug\netcoreapp3.0\RationalConsoleAppDemo.AssemblyInfo.cs
