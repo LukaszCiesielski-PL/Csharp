@@ -1,0 +1,3 @@
+C:\Users\Łukasz\Desktop\Rational\RationalLib\obj\Debug\netcoreapp3.0\RationalLib.csprojAssemblyReference.cache
+C:\Users\Łukasz\Desktop\Rational\RationalLib\obj\Debug\netcoreapp3.0\RationalLib.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\Rational\RationalLib\obj\Debug\netcoreapp3.0\RationalLib.AssemblyInfo.cs
