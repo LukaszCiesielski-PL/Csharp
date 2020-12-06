@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lT7SXz3sEm/a8XudLbkX4eXk2L+NJDK/QqsfKcHInd3DgIaIYdTGqrp8QdgmawpsZaN21c5xxCKXIvpkq8QCLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\Warsztat\\Warsztat-Time-TimePeriod\\TimePeriod\\TimePeriod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
