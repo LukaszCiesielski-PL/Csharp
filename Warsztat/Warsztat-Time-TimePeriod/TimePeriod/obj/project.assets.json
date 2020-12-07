@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\Warsztat\\Warsztat-Time-TimePeriod\\TimePeriod\\TimePeriod.csproj",
-      "projectName": "TimePeriod",
-      "projectPath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\Warsztat\\Warsztat-Time-TimePeriod\\TimePeriod\\TimePeriod.csproj",
+      "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\Warsztat\\Warsztat-Time-TimePeriod\\TimePeriod\\Time TimePeriod.csproj",
+      "projectName": "Time TimePeriod",
+      "projectPath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\Warsztat\\Warsztat-Time-TimePeriod\\TimePeriod\\Time TimePeriod.csproj",
       "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\Warsztat\\Warsztat-Time-TimePeriod\\TimePeriod\\obj\\",
       "projectStyle": "PackageReference",

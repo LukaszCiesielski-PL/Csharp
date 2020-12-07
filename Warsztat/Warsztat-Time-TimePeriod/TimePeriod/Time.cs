@@ -32,7 +32,7 @@ namespace Time
 
             if (seconds < 60)
                 _seconds = seconds;
-            else throw new ArgumentException("Zły format, dla ekund przyjmij czas od 0 do 59");
+            else throw new ArgumentException("Zły format, dla sekund przyjmij czas od 0 do 59");
         }
 
         public Time(string times)
@@ -69,12 +69,10 @@ namespace Time
         {
             return _hours;
         }
-       
         public byte getMinutes()
         {
             return _minutes;
-        }
-       
+        }      
         public byte getSeconds()
         {
             return _seconds;
@@ -87,17 +85,16 @@ namespace Time
         {
             return (obj is Time time) && this.Equals(time);
         }
-
        
         static public bool operator ==(Time x, Time y)
         {
             return (x.getHours() == y.getHours() && x.getMinutes() == y.getMinutes() && x.getSeconds() == y.getSeconds());
         }
-
         static public bool operator !=(Time x, Time y)
         {
-            return (x.getHours() != y.getHours() && x.getMinutes() != y.getMinutes() && x.getSeconds() != y.getSeconds());
+            return (x.getHours() != y.getHours() || x.getMinutes() != y.getMinutes() || x.getSeconds() != y.getSeconds());
         }
+
         public int CompareTo(Time other)
         {
             if (other == null)

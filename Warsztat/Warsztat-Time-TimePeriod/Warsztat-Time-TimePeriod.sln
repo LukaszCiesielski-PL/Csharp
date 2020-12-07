@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time", "Time\Time.csproj", "{A5B6EB42-C86D-40B2-B63F-BA431893C0EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimePeriod", "TimePeriod\TimePeriod.csproj", "{457EC7CD-B89B-4FE1-B404-1F6C0EA0641F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time TimePeriod", "TimePeriod\Time TimePeriod.csproj", "{457EC7CD-B89B-4FE1-B404-1F6C0EA0641F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
