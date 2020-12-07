@@ -1,0 +1,12 @@
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.exe
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.deps.json
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.runtimeconfig.json
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.runtimeconfig.dev.json
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.dll
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\bin\Debug\netcoreapp3.1\TimeTimePeriod.pdb
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.dll
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.pdb
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.genruntimeconfig.cache
