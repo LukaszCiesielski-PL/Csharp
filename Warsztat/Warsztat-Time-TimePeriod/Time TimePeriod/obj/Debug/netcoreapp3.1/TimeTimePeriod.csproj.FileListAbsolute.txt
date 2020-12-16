@@ -10,3 +10,4 @@ C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Cs
 C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.dll
 C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.pdb
 C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\Warsztat\Warsztat-Time-TimePeriod\Time TimePeriod\obj\Debug\netcoreapp3.1\TimeTimePeriod.csprojAssemblyReference.cache

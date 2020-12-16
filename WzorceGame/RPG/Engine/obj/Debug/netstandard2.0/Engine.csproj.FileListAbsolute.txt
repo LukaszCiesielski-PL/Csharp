@@ -7,3 +7,12 @@ C:\Users\Łukasz\Desktop\Wzorce\RPG\Engine\obj\Debug\netstandard2.0\Engine.Assem
 C:\Users\Łukasz\Desktop\Wzorce\RPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
 C:\Users\Łukasz\Desktop\Wzorce\RPG\Engine\obj\Debug\netstandard2.0\Engine.dll
 C:\Users\Łukasz\Desktop\Wzorce\RPG\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Łukasz\Desktop\STUDIA\Programowanie obiektowe C# MOODLE\Laboratoria\Csharp-labs\WzorceGame\RPG\Engine\obj\Debug\netstandard2.0\Engine.pdb

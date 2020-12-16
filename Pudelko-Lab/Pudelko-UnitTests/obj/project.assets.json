@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Pudelko-Lab\\Pudelko-UnitTests\\PudelkoUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Pudelko-Lab\\Pudelko-UnitTests\\PudelkoUnitTests.csproj",
       "projectName": "PudelkoUnitTests",
-      "projectPath": "C:\\Users\\Łukasz\\Desktop\\Pudelko-Lab\\Pudelko-UnitTests\\PudelkoUnitTests.csproj",
+      "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Pudelko-Lab\\Pudelko-UnitTests\\PudelkoUnitTests.csproj",
       "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Łukasz\\Desktop\\Pudelko-Lab\\Pudelko-UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Pudelko-Lab\\Pudelko-UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5757,9 +5757,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Łukasz\\Desktop\\Pudelko-Lab\\PudelkoLib\\PudelkoLib.csproj": {
-              "projectPath": "C:\\Users\\Łukasz\\Desktop\\Pudelko-Lab\\PudelkoLib\\PudelkoLib.csproj"
+            "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Pudelko-Lab\\PudelkoLib\\PudelkoLib.csproj": {
+              "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Pudelko-Lab\\PudelkoLib\\PudelkoLib.csproj"
             }
           }
         }
@@ -5772,6 +5773,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -5807,7 +5809,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

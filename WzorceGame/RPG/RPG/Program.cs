@@ -36,7 +36,7 @@ namespace RPG
             przeciwnikGracza.Nazwa = "Szkielet";
             Console.WriteLine($"Twoim przeciwnikiem jest {przeciwnikGracza.Nazwa}");
             przeciwnikGracza2.Aktual_Hp = 30;
-            przeciwnikGracza2.Atak_Max = 20;
+            przeciwnikGracza2.Atak_Max = 15;
             Walka.Bitwa(postacGracza, przeciwnikGracza2);
 
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -51,7 +51,16 @@ namespace RPG
             Console.WriteLine("Idziesz dalej...\n");
             Console.ForegroundColor = ConsoleColor.White;
 
-            
+            Przeciwnik przeciwnikGracza3 = przeciwnikGracza.PelnaKopia();
+            przeciwnikGracza.Nazwa = "Ogr";
+            Console.WriteLine($"Twoim przeciwnikiem jest {przeciwnikGracza.Nazwa}");
+            przeciwnikGracza2.Aktual_Hp = 30;
+            przeciwnikGracza2.Atak_Max = 20;
+            Walka.Bitwa(postacGracza, przeciwnikGracza2);
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Przed wyruszeniem w drogę należy zebrać drużynę !\nA tak serio to rozwinę projekt :)");
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }

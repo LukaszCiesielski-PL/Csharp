@@ -33,22 +33,22 @@ namespace TimeTimePeriod
         {
 
             if (interval <= 0)
-
+            {
                 throw new ArgumentOutOfRangeException("Nie możesz podać ujemnych sekund");
-
-
+            }
 
             _interval = interval;
 
-            _hours = (byte)Math.Round((decimal)(interval / 3600));
+            _hours = (byte)(interval / 3600);
 
             interval %= 3600;
 
-            _minutes = (byte)Math.Round((decimal)(interval / 60));
+            _minutes = (byte)(interval / 60);
 
             interval %= 60;
 
             _seconds = (byte)interval;
+
 
         }
 
@@ -63,7 +63,15 @@ namespace TimeTimePeriod
             if (byte.TryParse(time[0], out byte hour) && byte.TryParse(time[1], out byte minute) && byte.TryParse(time[2], out byte second))
 
             {
+                if (minute >= 60)
+                {
+                    throw new ArgumentException("Zły format, dla minut przyjmij czas od 0 do 59");
+                }
 
+                if (second >= 60)
+                {
+                    throw new ArgumentException("Zły format, dla sekund przyjmij czas od 0 do 59");
+                }
                 _hours = hour;
 
                 _minutes = minute;
@@ -73,30 +81,37 @@ namespace TimeTimePeriod
                 _interval = hour * 3600 + minute * 60 + second;
 
 
-
-                if (minute >= 60)
-
-                    throw new ArgumentException("Zły format, dla minut przyjmij czas od 0 do 59");
-
-                if (second >= 60)
-
-                    throw new ArgumentException("Zły format, dla ekund przyjmij czas od 0 do 59");
-
-
-
             }
 
             else
 
                 throw new FormatException("Zły format czasu");
 
+
         }
 
         public override string ToString()
-
         {
+            string _minutes = "";
+            string _seconds = "";
+            if (Minutes < 10)
+            {
+                _minutes = "0" + Minutes.ToString();
+            }
+            else
+            {
+                _minutes = Minutes.ToString();
+            }
+            if (Seconds < 10)
+            {
+                _seconds = "0" + Seconds.ToString();
+            }
+            else
+            {
+                _seconds = Seconds.ToString();
+            }
 
-            return _hours + ":" + _minutes + ":" + _seconds;
+            return Hours + ":" + _minutes + ":" + _seconds;
 
         }
 
@@ -165,56 +180,39 @@ namespace TimeTimePeriod
         {
 
             if (other == null)
-
+            {
                 return 1;
-
-
+            }
 
             return Interval.CompareTo(other.Interval);
 
         }
 
         public static bool operator >(TimePeriod x, TimePeriod y)
-
         {
-
-            return x.CompareTo(y) == 1;
-
+            return x.CompareTo(y) > 0;
         }
 
         public static bool operator <(TimePeriod x, TimePeriod y)
-
         {
-
-            return x.CompareTo(y) == -1;
-
+            return x.CompareTo(y) < 0;
         }
 
         public static bool operator >=(TimePeriod x, TimePeriod y)
-
         {
-
             return x.CompareTo(y) >= 0;
-
         }
 
         public static bool operator <=(TimePeriod x, TimePeriod y)
-
         {
-
             return x.CompareTo(y) <= 0;
-
         }
 
         public static TimePeriod operator -(TimePeriod x, TimePeriod y)
 
         {
 
-            long diff = x.getInterval() - y.getInterval();
-
-            if (diff < 0)
-
-                diff = -diff;
+            long diff = (x.getInterval() - y.getInterval());
 
             return new TimePeriod(diff);
 
@@ -243,14 +241,6 @@ namespace TimeTimePeriod
             return new TimePeriod(x.getInterval() / y);
 
         }
-
-        // zapewnij działania arytmetyczne na czasie (modulo 24 godziny 
-
-        // – plus, minus, np. metody Time Plus(TimePeriod), 
-
-        // static Time Plus(Time, TimePeriod), 
-
-        // przeciążenie operatora +) 
 
 
 

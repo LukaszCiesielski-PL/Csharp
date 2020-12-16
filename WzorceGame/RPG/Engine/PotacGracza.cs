@@ -31,7 +31,7 @@ namespace Engine
         private static PostacGracza _instance;
         private static readonly object _lock = new PostacGracza();
 
-        public static PostacGracza GetInstance(string nazwa = "", int atak=0, int atak_min=1, int atak_max = 10, int hp = 100, int aktual_hp = 100, int pancerz = 0, int aktual_pancerz = 0, int pieniadze = 0, int poziom = 1, int punkty_doswiadczenia = 0)
+        public static PostacGracza GetInstance(string nazwa = "", int atak=0, int atak_min=4, int atak_max = 12, int hp = 100, int aktual_hp = 100, int pancerz = 0, int aktual_pancerz = 0, int pieniadze = 0, int poziom = 1, int punkty_doswiadczenia = 0)
         {
             if (_instance == null)
             {

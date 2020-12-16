@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1JeAqvYuPe4GbKWLg7HRYKwg2qrfEASUcbIeWinN0Q13mBKCWk2s2X8npuEetPn/EEjR8uBfWMKsFFqkQ5AzQ==",
+  "dgSpecHash": "fewO/aGuBkh0s50EkLSObIipzmDWIZl3sKCk/s9oJuufc1waofxqyJeDdkqN/68IUOoKyyFVj7j8RkyVXFj/Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\Wzorce\\RPG\\RPG\\RPG.csproj",
+  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\WzorceGame\\RPG\\RPG\\RPG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.azure.amqp\\2.4.9\\microsoft.azure.amqp.2.4.9.nupkg.sha512",
     "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.2\\microsoft.netcore.platforms.1.0.2.nupkg.sha512",

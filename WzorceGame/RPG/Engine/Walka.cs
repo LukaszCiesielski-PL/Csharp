@@ -8,12 +8,12 @@ namespace Engine
 {
     public class Walka
     {
-        
+
         public static bool KtoZaczynaWalke()
         {
             int rzut;
             int rzut2;
-            do 
+            do
             {
                 Console.WriteLine("Przed walką rzuć kością aby zobaczyć kto zaczyna jako pierwszy.");
                 Console.WriteLine("\nTwój rzut");
@@ -23,12 +23,12 @@ namespace Engine
                 Random ZaczynaPrzeciwnik = new Random();
                 rzut2 = ZaczynaPrzeciwnik.Next(1, 6);
                 Console.WriteLine($"Przeciwnik wyrzucił: {rzut2}");
-                if(rzut == rzut2)
+                if (rzut == rzut2)
                 {
                     Console.WriteLine("\nRemis, rzucacie jeszcze raz.\n");
-                    Console.WriteLine("Twój rzut");                   
+                    Console.WriteLine("Twój rzut");
                     rzut = ZaczynaGracz.Next(1, 6);
-                    Console.WriteLine($"Wyrzuciłeś: {rzut} \n\nTeraz kolej przeciwnika...");                    
+                    Console.WriteLine($"Wyrzuciłeś: {rzut} \n\nTeraz kolej przeciwnika...");
                     rzut2 = ZaczynaPrzeciwnik.Next(1, 6);
                     Console.WriteLine($"Przeciwnik wyrzucił: {rzut2}");
                 }
@@ -42,11 +42,22 @@ namespace Engine
 
                     return false;
                 }
-            } while ( rzut==rzut2 );
+            } while (rzut == rzut2);
 
-            
+
         }
-        
+        public static void ZaczynaGracz(PostacGracza postac, Przeciwnik przeciwnik)
+        {
+            postac.Atak = LosowanieLiczb.GeneratorLiczbPseudolosowych.LiczbaPomiedzy(postac.Atak_Min, postac.Atak_Max);
+            przeciwnik.Aktual_Hp = przeciwnik.Aktual_Hp - postac.Atak;
+            Console.WriteLine($"Uderzyłeś za {postac.Atak}, przeciwnikowi zostało {Math.Max(przeciwnik.Aktual_Hp, 0)} HP");
+        }
+        public static void ZaczynaPrzeciwnik(PostacGracza postac, Przeciwnik przeciwnik)
+        {
+            przeciwnik.Atak = LosowanieLiczb.GeneratorLiczbPseudolosowych.LiczbaPomiedzy(przeciwnik.Atak_Min, przeciwnik.Atak_Max);
+            postac.Aktual_Hp = postac.Aktual_Hp - przeciwnik.Atak;
+            Console.WriteLine($"Dostałeś za {przeciwnik.Atak}, zostało Ci {postac.Aktual_Hp} HP");
+        }
         public static void Bitwa(PostacGracza postac, Przeciwnik przeciwnik)
         {
             
@@ -55,45 +66,32 @@ namespace Engine
                 Console.WriteLine("\nZaczyna gracz");
                 do
                 {
-                    postac.Atak = LosowanieLiczb.GeneratorLiczbPseudolosowych.LiczbaPomiedzy(postac.Atak_Min, postac.Atak_Max);
-                    przeciwnik.Aktual_Hp = przeciwnik.Aktual_Hp - postac.Atak;
-                    Console.WriteLine($"Uderzyłeś za {postac.Atak}, przeciwnikowi zostało {Math.Max(przeciwnik.Aktual_Hp,0)} HP");
+                    ZaczynaGracz(postac, przeciwnik);
                     if (przeciwnik.Aktual_Hp > 0)
                     {
-                        przeciwnik.Atak = LosowanieLiczb.GeneratorLiczbPseudolosowych.LiczbaPomiedzy(przeciwnik.Atak_Min, przeciwnik.Atak_Max);
-                        postac.Aktual_Hp = postac.Aktual_Hp - przeciwnik.Atak;
-                        Console.WriteLine($"Dostałeś za {przeciwnik.Atak}, zostało Ci {postac.Aktual_Hp} HP");
-
+                        ZaczynaPrzeciwnik(postac, przeciwnik);
                         if (postac.Aktual_Hp <= 0)
                         {
                             Console.WriteLine("Zginąłeś !");
                             Process.GetCurrentProcess().Kill();
                         }
-                        
                     }
                      
                 } while (przeciwnik.Aktual_Hp > 0 && postac.Aktual_Hp > 0);  
-                Console.WriteLine("Przeciwnik zginął, wygrałeś !\n\n");
-               
+                Console.WriteLine("Przeciwnik zginął, wygrałeś !\n\n");               
             }
             else
             {
                 Console.WriteLine("\nZaczyna przeciwnik");
                 do
                 {
-                    przeciwnik.Atak = LosowanieLiczb.GeneratorLiczbPseudolosowych.LiczbaPomiedzy(przeciwnik.Atak_Min, przeciwnik.Atak_Max);
-                    postac.Aktual_Hp = postac.Aktual_Hp - przeciwnik.Atak;
-                    Console.WriteLine($"Dostałeś za {przeciwnik.Atak}, zostało Ci {postac.Aktual_Hp} HP");
+                    ZaczynaPrzeciwnik(postac, przeciwnik);
                     if (postac.Aktual_Hp > 0)
                     {
-                        postac.Atak = LosowanieLiczb.GeneratorLiczbPseudolosowych.LiczbaPomiedzy(postac.Atak_Min, postac.Atak_Max);
-                        przeciwnik.Aktual_Hp = przeciwnik.Aktual_Hp - postac.Atak;
-                        Console.WriteLine($"Uderzyłeś za {postac.Atak}, przeciwnikowi zostało {Math.Max(przeciwnik.Aktual_Hp,0)} HP");
-
+                        ZaczynaGracz(postac, przeciwnik);
                         if (przeciwnik.Aktual_Hp <= 0)
                         {
-                            Console.WriteLine("Przeciwnik zginął, wygrałeś !\n\n");
-                            
+                            Console.WriteLine("Przeciwnik zginął, wygrałeś !\n\n");                           
                         }                                            
                     }
                     if (postac.Aktual_Hp <= 0)

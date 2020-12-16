@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4DpqKJnMOfnqMX/NjDvhkDgaXN4US6ck2pAFyrUM3y0Usw+RstUBEl3Zmid68NKPx3zp9Lm48O+jtELPPBcmg==",
+  "dgSpecHash": "MQ9R6Kn0BGOyoHxIYJ7Y/KlTbQaG9EZGW/HVoH4xJ/xZ3N1HRUEc5M2JeteYp4wz8vwp6X7QD54MVNPa+YxiYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\Pudelko-Lab\\Pudelko-UnitTests\\PudelkoUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Pudelko-Lab\\Pudelko-UnitTests\\PudelkoUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Łukasz\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.codecoverage\\16.8.0\\microsoft.codecoverage.16.8.0.nupkg.sha512",

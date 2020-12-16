@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Łukasz\\Desktop\\Wzorce\\RPG\\Engine\\Engine.csproj": {}
+    "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\WzorceGame\\RPG\\Engine\\Engine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Łukasz\\Desktop\\Wzorce\\RPG\\Engine\\Engine.csproj": {
+    "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\WzorceGame\\RPG\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Wzorce\\RPG\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\WzorceGame\\RPG\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\Łukasz\\Desktop\\Wzorce\\RPG\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\WzorceGame\\RPG\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\Desktop\\Wzorce\\RPG\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\Łukasz\\Desktop\\STUDIA\\Programowanie obiektowe C# MOODLE\\Laboratoria\\Csharp-labs\\WzorceGame\\RPG\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
