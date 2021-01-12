@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj": {}
+    "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj": {
+    "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj",
+        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj",
         "projectName": "ZADANIE 1",
-        "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj",
+        "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj",
         "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 1\\obj\\",
+        "outputPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj": {
+    "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj",
+        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj",
         "projectName": "ZADANIE 2",
-        "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj",
+        "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 2\\ZADANIE 2.csproj",
         "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 2\\obj\\",
+        "outputPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj": {
-                "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj"
+              "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj": {
+                "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE 1\\ZADANIE 1.csproj"
               }
             }
           }

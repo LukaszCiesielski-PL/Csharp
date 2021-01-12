@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
+      "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
       "projectName": "ZADANIE 3",
-      "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
+      "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
       "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\obj\\",
+      "outputPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",

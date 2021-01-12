@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj": {}
+    "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj": {
+    "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj",
         "projectName": "ZADANIE3UnitTest",
-        "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj",
+        "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj",
         "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj": {
-                "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj"
+              "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj": {
+                "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj": {
+    "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
+        "projectUniqueName": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
         "projectName": "ZADANIE 3",
-        "projectPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
+        "projectPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\ZADANIE 3.csproj",
         "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3\\obj\\",
+        "outputPath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",

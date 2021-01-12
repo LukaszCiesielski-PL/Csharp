@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n76zNaV/PPfiKFvgm00yFe3hUCEZfEDitecRzoKPKT84HMH1vNJNvZo4JJrLauvMq3FNtttvSJiVNgHnDwlwow==",
+  "dgSpecHash": "I3pxlpqmpY6YV24c45h4RgsdCMVT4dCoy0C548ovilMhioqJGHxQZOPQ6yINQaqubOjsBWiB6icpSM45q7rTeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\GitHub\\Programowanie obiektowe C#\\Laboratoria\\Csharp-labs\\Ksero\\Kserokopiarka\\ZADANIE3UnitTest\\ZADANIE3UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Łukasz\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
